@@ -16,8 +16,8 @@ public class MainActivity extends FragmentActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		pager = (JellyViewPager) findViewById(R.id.myViewPager1);
-		pager.setAdapter(new TestPagerAdapter(this));
-		//pager.setAdapter(new TestFragPagerAdapter(getSupportFragmentManager()));
+		//pager.setAdapter(new TestPagerAdapter(this));
+		pager.setAdapter(new TestFragPagerAdapter(getSupportFragmentManager()));
 		pager.setOnPageChangeListener(new OnPageChangeListener() {
 			@Override
 			public void onPageScrollStateChanged(int state) {
