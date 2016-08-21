@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi,armeabi-v7a"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    timestamp="17877048604836"
+    token="-2718504170483869650"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="73" />
+    <task
+        name="instant-run-dex"
+        duration="294" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="16833499295873"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="16951405231014"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79d506225be0fa53a07fe3b21b888edd6b9339bf/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/2/rebound-core_e0575379fcf851aa736dd7b8cb95cfc606607fed/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_aafb0a75f3b5c50a714f1b74d5080e518417250d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e09036d7dc7e437a79d1bcaac6ab2fe9ff704c01/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c986460b69d11c70f2d51b8bb1489d710d12ce10/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="17877048604836"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

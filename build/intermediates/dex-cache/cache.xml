@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="82581c3448c333e1c0c0a7dc8f650ef758555fc0">
+        <dex dex="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79d506225be0fa53a07fe3b21b888edd6b9339bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lizhixian/Documents/git/JellyViewPager/app/libs/rebound-core.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f7360f236f32c0ef2ec74115f8c7163752632883">
+        <dex dex="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/2/rebound-core_e0575379fcf851aa736dd7b8cb95cfc606607fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7d7003f66efd30fdf99e5439d898a752833620a9">
+        <dex dex="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e09036d7dc7e437a79d1bcaac6ab2fe9ff704c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lizhixian/Documents/git/JellyViewPager/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_aafb0a75f3b5c50a714f1b74d5080e518417250d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lizhixian/Documents/Android/studio_sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c986460b69d11c70f2d51b8bb1489d710d12ce10/classes.dex" />
+    </item>
+
+</items>

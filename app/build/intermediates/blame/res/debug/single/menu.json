@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager2/app/src/main/res/menu/main.xml"
+    }
+]

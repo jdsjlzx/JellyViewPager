@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/res/merged/debug/layout/frag_layout.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager1/app/src/main/res/layout/frag_layout.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/res/merged/debug/layout/frag_layout.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager/app/src/main/res/layout/frag_layout.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager2/app/build/intermediates/res/merged/debug/layout/frag_layout.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager2/app/src/main/res/layout/frag_layout.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lizhixian/Documents/git/JellyViewPager1/app/src/main/res/layout/activity_main.xml"
+    }
+]

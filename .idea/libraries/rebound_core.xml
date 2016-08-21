@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rebound-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/rebound-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

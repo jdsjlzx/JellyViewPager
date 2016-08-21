@@ -1,0 +1,7 @@
+#Sun Aug 21 17:49:39 CST 2016
+base.0=/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6517e1bf1902d8cae443f2035546cb333362d8be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e69dd84bb2c4cbf698e4e0beaca19716c5aefb2b/classes.dex
+base.1=/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e69dd84bb2c4cbf698e4e0beaca19716c5aefb2b
+file.0=/Users/lizhixian/Documents/git/JellyViewPager1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6517e1bf1902d8cae443f2035546cb333362d8be/classes.dex
